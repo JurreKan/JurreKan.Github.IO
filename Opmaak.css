@@ -1,11 +1,9 @@
 body {
   margin: 0;
-  padding: 0;
-}
+  padding: 0;}
 
 h2, p {
-  margin: 10px;
-}
+  margin: 10px;}
 
 ul {
   list-style-type: none;
@@ -16,26 +14,18 @@ ul {
 }
 
 ul li {
-  float: left;
-}
+  float: left;}
 
 ul li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
-}
+  text-decoration: none;}
 
 ul li a:hover {
-  background-color: #111111;
-}
-.link {
-  background-color: rgba(101, 252, 176, 0.504);
-  color: white;
-  border: 2px solid rgba(0, 0, 0, 0.011);
-  margin: 20px;
-  padding: 20px;}
+  background-color: #111111;}
+
 
 body {
   background-color: rgb(227, 226, 226);
