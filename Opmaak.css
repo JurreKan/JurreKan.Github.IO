@@ -20,17 +20,18 @@ ul li a {
   padding: 14px 16px;
   text-decoration: none;}
 
-ul li a:hover { background-color: darkseagreen;}
-
-body { font-family: Arial, Helvetica, sans-serif;}
+ul li a:hover 
+{ background-color: green;
+opacity: 0.8;}
 
 head { font-family: Arial, Helvetica, sans-serif;}
 
 p {width:50%;}
 
-div {
-background-color: darkseagreen;
-opacity: 0.6;} /* achtergrond kleur
+body {
+background-color: green;
+opacity: 0.8;
+font-family: Arial, Helvetica, sans-serif;}  /* kleur en lettertype van de body
 
 
     /* .link {
