@@ -20,9 +20,7 @@ ul li a {
   padding: 14px 16px;
   text-decoration: none;}
 
-ul li a:hover {
-  background-color: darkseagreen;
-  opacity: 0.6; }
+ul li a:hover { background-color: darkseagreen;}
 
 body {
   background-color: rgb(227, 226, 226);
