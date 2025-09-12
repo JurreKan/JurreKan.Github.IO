@@ -6,8 +6,8 @@ h2, p { margin: 18px;}
 
 h2 {
 background-color: #333333;
-padding: 18px;
-width:30%;
+padding: 14px;
+width:60%;
 color: white;
 border: 2px solid rgba(211, 211, 211, 0.713)
 }
@@ -22,7 +22,7 @@ ul {
 
 ul li {float: left;}
 
-ul li a {
+ul li a { 
   display: block;
   color: white;
   text-align: center;
