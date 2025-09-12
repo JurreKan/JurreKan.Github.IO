@@ -4,6 +4,12 @@ body {
 
 h2, p { margin: 18px;}
 
+h2 {
+background-color: #333333;
+padding: 18px;
+  
+}
+
 ul {
   list-style-type: none;
   margin: 0;
