@@ -4,8 +4,9 @@ body {
 
 h2, p { margin: 18px;}
 
-h2 {
+h2,p {
 background-color: #333333;
+margin: 18px;
 padding: 14px;
 width:60%;
 color: white;
