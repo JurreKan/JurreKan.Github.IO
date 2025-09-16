@@ -2,9 +2,9 @@ body {
   margin: 0;
   padding: 0;}
 
-h2, p { margin: 18px;}
+h2, p, h3{ margin: 18px;}
 
-h2,p {
+h2,p,h3 {
 background-color: #333333;
 margin: 18px;
 padding: 10px;
