@@ -46,7 +46,9 @@ border: solid rgba(211, 211, 211, 0.713)
 }
 
 .kleurmodellen {
- width:160%;}
+ width:160%;
+ margin: 18px;}
+ 
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
