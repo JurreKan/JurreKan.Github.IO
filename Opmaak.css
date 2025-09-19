@@ -20,7 +20,7 @@ ul {
   overflow: hidden;
   background-color: #333333;
   border: 2px solid #333333;
-  position; fixed}
+  position:fixed}
 
 ul li {
 float: left;}
