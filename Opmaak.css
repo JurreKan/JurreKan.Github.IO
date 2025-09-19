@@ -19,8 +19,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
-  border: 2px solid #333333;
-  position:fixed}
+  border: 2px solid #333333;}
 
 ul li {
 float: left;}
@@ -30,7 +29,8 @@ ul li a {
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;}
+  text-decoration: none;
+position: fixed}
 
 
 ul li a:hover 
