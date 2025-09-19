@@ -45,11 +45,11 @@ border: solid rgba(211, 211, 211, 0.713)
 }
 
 div.image1 {
-position:static; top:15%; right:2%;
+position: static;; top:15%; right:2%;
 }
 
 div.image2{
-position:static; top:9%; right:2%;
+position: static; top:9%; right:2%;
 }
 
 .kleurmodellen {
