@@ -44,13 +44,9 @@ border: solid rgba(211, 211, 211, 0.713)
 
 }
 
-div.image1 {
-position: relative;; top:15%; right:2%;
-}
+.image-invoer-verwerking-uitvoer{
+margin: 18px;}
 
-div.image2{
-position: relative; top:9%; right:2%;
-}
 
 .invoer-verwerking-uitvoer {
  width:160%;}
