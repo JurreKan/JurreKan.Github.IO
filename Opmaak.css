@@ -63,7 +63,8 @@ margin-right:0px;}
 
 #vector-en-bitmapafbeelding {
 float: right;
-margin: 0px;}
+margin: 0px;
+padding: 0px;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
