@@ -54,6 +54,8 @@ margin: 18px;}
 .kleurmodellen {
  width:160%;}
  
+#vector-en-bitmapafbeelding {
+float: right;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
