@@ -67,7 +67,7 @@ padding: right 0px;}
 float: right;
 margin: 0px;
 padding: 0px;
-position:sticky; top:70%;}
+position:absolute; top:70%;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
