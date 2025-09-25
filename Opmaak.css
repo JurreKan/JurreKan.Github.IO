@@ -2,18 +2,6 @@ body {
   margin: 0;
   padding: 0;}
 
-   
-.klein-compressie {
-width: 80%;
-margin-right:-18px;
-padding: right -10px;}
- 
-
-#vector-en-bitmapafbeelding {
-margin: 0px;
-float:right;
-padding: 0px;}
-
 h2, p, h3{ margin: 18px;}
 
 h2,p,h3 {
@@ -68,7 +56,17 @@ margin: 18px;}
 
  .compressie {
  width:160%;}
+ 
+.klein-compressie {
+width: 80%;
+margin-right:-18px;
+padding: right -10px;}
+ 
 
+#vector-en-bitmapafbeelding {
+margin: 0px;
+float:right;
+padding: 0px;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
