@@ -68,7 +68,8 @@ margin: 0px;
 float:right;
 padding: 0px;
 object-fit: cover;
-object-position: bottom right;}
+object-position: bottom right;
+position: relative;right: 80%;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
