@@ -66,7 +66,9 @@ padding: right -10px;}
 #vector-en-bitmapafbeelding {
 margin: 0px;
 float:right;
-padding: 0px;}
+padding: 0px;
+object-fit: cover;
+object-position: bottom right;}
 
 body {
 background-color: rgba(211, 211, 211, 0.713);
