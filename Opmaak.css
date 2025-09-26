@@ -64,17 +64,15 @@ margin: 18px;}
  
 .klein-compressie {
 width: 80%;
-margin-right:-36px;
-padding: right -20px;}
+margin-right:0px;
+padding: right 0px;}
  
 
 #vector-en-bitmapafbeelding {
 margin: 0px;
 float:right;
 padding: 0px;
-object-fit: cover;
-object-position: bottom right;
-position: fixed;top: 40%;right: 70%;}
+object-fit: cover;}
 
 
 
