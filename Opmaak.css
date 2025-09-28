@@ -70,9 +70,11 @@ padding: 0px;}
 
 footer{
 display: block;
-margin-top: 50px;
+margin-top: 600px;
 background-color: beige;
-color: black;
+color: rgb(21, 21, 21);
+padding: 80px;
+border: 8px solid rgb(21, 21, 21)
 }
 
 
