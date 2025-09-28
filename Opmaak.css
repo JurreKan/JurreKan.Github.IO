@@ -62,11 +62,9 @@ margin-top: 0px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbee
 float:right; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" rechts wordt geplaatst. */
 padding: 0px;}
 
-
 footer{
-display: block;
-margin-top: 280px;
-
+display: block; /* zorgt ervoor dat de footer wordt gedisplayd als een blok*/ 
+margin-top: 280px; /* zorgt ervoor dat de margin van de footer aan de bovenkant 280px is.*/
 }
 
 
