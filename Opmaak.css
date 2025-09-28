@@ -70,8 +70,8 @@ padding: 0px;}
 
 footer{
 display: block;
-margin-top: 300px;
-background-color: beige;
+margin-top: 200px;
+background-color: rgba(211, 211, 211, 0.713);
 color: rgb(21, 21, 21);
 padding: 40px;
 border: 8px solid rgb(21, 21, 21)
