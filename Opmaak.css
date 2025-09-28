@@ -45,14 +45,9 @@ border:2px solid rgba(211, 211, 211, 0.713)} /* zorgt ervoor dat alle afbeelding
 margin: 18px;} /* zorgt ervoor dat afbeeldingen met de class:"image-1" een margin van 18px krijgen */
 
 
-.invoer-verwerking-uitvoer {
+.p2 {
  width:160%;} /* Geeft aan dat de with  van een contiainer genaamd "invoer-verwerking-uitvoer 160% is van de 60% width die hierboven was weergegeven.*/
  
-.kleurmodellen {
- width:160%;}
-
- .compressie {
- width:160%;}
 
  
 .klein-compressie {
