@@ -46,7 +46,7 @@ margin: 18px;} /* zorgt ervoor dat afbeeldingen met de class:"image-1" een margi
 
 
 .invoer-verwerking-uitvoer {
- width:160%;}
+ width:160%;} /* Geeft aan dat de with  van een contiainer genaamd "invoer-verwerking-uitvoer 160% is van de 60% width die hierboven was weergegeven.*/
  
 .kleurmodellen {
  width:160%;}
@@ -56,15 +56,15 @@ margin: 18px;} /* zorgt ervoor dat afbeeldingen met de class:"image-1" een margi
 
  
 .klein-compressie {
-width: 80%;
-margin-right:0px;
-padding: right 0px;}
+width: 80%; /* Geeft aan dat de with  van een contiainer genaamd "invoer-verwerking-uitvoer 80% is van de 60% width die hierboven was weergegeven.*/
+margin-right:0px;  /* Zorgt ervoor dat afbeeldingen die class: "klein compressie" heeft een margin van 0 pixels heeft aan de rechter kant. */
+padding: right 0px;} /* Zorgt ervoor dat afbeeldingen die class: "klein compressie" heeft een padding van 0 pixels heeft aan de rechter kant. */
  
 
 #vector-en-bitmapafbeelding {
-margin-right: 18px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldinngen een margin van 18 pixels hebben  aan de bovenkant. */
-margin-top: 0px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldinngen een margin van 0 pixels hebben  aan de rechter kant. */
-float:right; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldinngen rechts worden geplaatst. */
+margin-right: 18px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" een margin van 18 pixels heeft aan de bovenkant. */
+margin-top: 0px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" een margin van 0 pixels heeft aan de rechter kant. */
+float:right; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" rechts wordt geplaatst. */
 padding: 0px;}
 
 
