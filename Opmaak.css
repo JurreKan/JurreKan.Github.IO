@@ -2,20 +2,20 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgba(211, 211, 211, 0.713);
-  font-family: Arial, Helvetica, sans-serif;} /* Zorgt ervoor dat het lettertype van de body arial is */
+  font-family: Arial, Helvetica, sans-serif;} /* Zorgt ervoor dat het lettertype van de body Arial is. */
 
 
 h2,p,h3 { 
-background-color: #333333; /* Zorgt  ervoor  dat de achtergrondkleur van heading 2, heading 3 en paragrafen zwart is*/
-margin: 18px; /* Zorgt  ervoor  dat de margin (lege ruimte buiten een element) van heading 2, heading 3 en paragrafen 18px is*/
-padding: 10px; /*Zorgt ervoor dat de padding (vulling) van heading 2, heading 3 en paragrafen 10px is*/
-width:60%; /* Zorgt ervoor dat de tekstblokjes van heading 2,heading 3 en paragrafen 60% van de pagina vullen*/
+background-color: #333333; /* Zorgt ervoor dat de achtergrondkleur van heading 2, heading 3 en paragrafen donkergrijs is*/
+margin: 18px; /* Zorgt ervoor dat de margin (lege ruimte buiten een element) van heading 2, heading 3 en paragrafen 18px is.*/
+padding: 10px; /*Zorgt ervoor dat de padding (vulling) van heading 2, heading 3 en paragrafen 10px is.*/
+width:60%; /* "Zorgt ervoor dat de tekstblokken van heading 2, heading 3 en paragrafen 60% van de pagina vullen.*/
 color: white;  /* Zorgt ervoor dat de letters van heading 2,heading 3 en paragrafen wit gekleurd zijn*/
-border: 2px solid rgba(211, 211, 211, 0.713)} /* Zorgt ervoor dat heading 2, heading 3 en paragrafen een solide, grijze rand krijgt */
+border: 2px solid rgba(211, 211, 211, 0.713)} /* Zorgt ervoor dat heading 2, heading 3 en paragrafen een solide, grijze rand krijgen. */
 
 
 ul {
-  list-style-type: none; /*Verwijderd de "bolletjes" van een unordered list*/
+  list-style-type: none; /*Verwijdert de 'bolletjes' van een unordered list.*/
   margin: 0;
   padding: 0;
   overflow: hidden; /*Zorgt ervoor dat inhoud die buiten de grenzen van een element valt, wordt afgeknipt en verborgen*/
@@ -23,47 +23,47 @@ ul {
   border: 2px solid #333333;}
 
 ul li {
-float: left;} /* Zorgt ervoor dat de linkjes van de unordered list links van zijn container wordt geplaatst*/
+float: left;} /* Zorgt ervoor dat de linkjes van de unordered list aan de linkerkant van hun container worden geplaatst.*/
 
 ul li a { 
-  display: block; /* Zorg ervoor dat de anchor in je unordered list wordt gedepicteerd als een blok/vierkant */
+  display: block; /* Zorgt ervoor dat de links in je unordered list als blokken worden weergegeven. */
   color: white; 
   text-align: center; /* Centreert de tekst horizontaal binnen de grenzen van het element in de blok. */
   padding: 14px 16px;
-  text-decoration: none;} /* Zorgt ervoor dat alle textdecoraties worden genegeerd */
+  text-decoration: none;} /* Zorgt ervoor dat alle tekstdecoraties worden genegeerd. */
 
 
 ul li a:hover 
-{ background-color: rgb(21, 21, 21);} /* Zorgt ervoor dat wanneer je met je muis over het linkje gaat van de unordered list, dat hij zwarter kleurd */ 
+{ background-color: rgb(21, 21, 21);} /* Zorgt ervoor dat de achtergrondkleur zwarter wordt wanneer je met je muis over het linkje gaat. */ 
 
 head { font-family: Arial, Helvetica, sans-serif;} 
 
 img{ 
-border:2px solid rgba(211, 211, 211, 0.713)} /* Zorgt ervoor dat alle afbeeldingen een solide, grijze rand krijgt */
+border:2px solid rgba(211, 211, 211, 0.713)} /* Zorgt ervoor dat alle afbeeldingen een solide, grijze rand krijgen */
 
 .image-1{
 margin: 18px;} /* Zorgt ervoor dat afbeeldingen met de class:"image-1" een margin van 18px krijgen */
 
 
 .p2 {
- width:160%;} /* Geeft aan dat de width  van een contiainer genaamd "invoer-verwerking-uitvoer 160% is van de 60% width die hierboven was weergegeven.*/
+ width:160%;} /* Geeft aan dat de width van een container genaamd 'p2' 160% is van de 60% die hierboven is ingesteld.*/
  
 
  
 .klein-compressie {
-width: 80%; /* Geeft aan dat de with  van een contiainer genaamd "invoer-verwerking-uitvoer 80% is van de 60% width die hierboven was weergegeven.*/
+width: 80%; /* Geeft aan dat de width van een container genaamd 'klein-compressie' 80% is van de 60% die hierboven is ingesteld.*/
 margin-right:0px;  /* Zorgt ervoor dat afbeeldingen die class: "klein compressie" heeft een margin van 0 pixels heeft aan de rechter kant. */
-padding: right 0px;} /* Zorgt ervoor dat afbeeldingen die class: "klein compressie" heeft een padding van 0 pixels heeft aan de rechter kant. */
+padding: right 0px;} /* Zorgt ervoor dat afbeeldingen met de class 'klein-compressie' een padding van 0 pixels aan de rechterkant hebben. */
  
 
 #vector-en-bitmapafbeelding {
-margin-right: 18px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" een margin van 18 pixels heeft aan de bovenkant. */
+margin-right: 18px; /* Zorgt ervoor dat afbeeldingen met de id 'vector-en-bitmapafbeelding' een margin van 18 pixels aan de rechterkant hebben. */
 margin-top: 0px; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" een margin van 0 pixels heeft aan de rechter kant. */
 float:right; /* Zorgt ervoor dat afbeeldingen die id: "vector-en-bitmapafbeeldingen" rechts wordt geplaatst. */
 padding: 0px;}
 
 footer{
-display: block; /* Zorgt ervoor dat de footer wordt gedisplayd als een blok*/ 
+display: block; /* Zorgt ervoor dat de footer als een blok wordt weergegeven.*/ 
 margin-top: 280px; /* Zorgt ervoor dat de margin van de footer aan de bovenkant 280px is.*/
 }
 
